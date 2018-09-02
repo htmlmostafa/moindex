@@ -1,0 +1,95 @@
+
+.warrper{
+    padding: 6rem 0 3.5rem 0;
+    margin-bottom: 30px;
+    
+}
+.warrper .major{
+    margin-bottom: 30px;    
+}
+.warrper h2{
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 300 !important;
+    font-size: 3.5rem;
+    color: #555;
+    letter-spacing: 0.05em;
+}
+.warrper .major-span{
+    padding-top: 20px;
+    width: 55px;
+    height: 3px;
+    background-color: inherit;
+    border-bottom: 3px solid #555;
+
+}
+.warrper article{
+    padding-top: 50px;
+
+}
+.warrper article a{
+    overflow: hidden;
+        margin-bottom: 30px;
+
+}
+.warrper article img{
+    overflow: hidden;
+    transition: 1s;
+}
+.warrper article img:hover{
+      transform: scale(1.09,1.09)
+}
+.warrper article h3{
+    font-weight: 300;
+    letter-spacing: 1;
+    font-size: 2.15rem;
+    color: #555;
+    line-height: 1.4;
+    margin: 0 0 1.5rem 0;
+}
+.warrper article p{
+    margin: 0 0 2.5rem 0;
+color: #888;
+line-height: 25px;
+font-weight: 400;
+}
+
+.warrper article .btn-primary1{
+    background-color: #51CCA8 !important;
+    color: #ffffff !important;
+    border: none;
+    padding:13px 40px;
+    font-size: 14;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.warrper article .btn-primary2{
+    background-color: #3db1c6 !important;
+    color: #fff !important;
+    border: none;
+    padding:13px 40px;
+    font-size: 14;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.warrper article .btn-primary3{
+    background-color: #4b85c6 !important;
+    color: #ffffff !important;
+    border: none;
+    padding:13px 40px;
+    font-size: 14;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.warrper article .btn-primary4{
+    background-color: #6e81d0 !important;
+    color: #ffffff !important;
+    border: none;
+    padding:13px 40px;
+    font-size: 14;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.shadow{
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1) !important;
+}
